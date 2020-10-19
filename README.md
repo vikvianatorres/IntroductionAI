@@ -13,5 +13,10 @@ To use the Custom Vision Service you will need to create Custom Vision Training 
 
 # Get the training and prediction keys
 
-The project needs a valid set of subscription keys to interact with the service. You can find the items at the Custom Vision website. Sign in with the account associated with the Azure account you used to create your Custom Vision resources. On the home page (the page with the option to add a new project), select the gear icon in the upper right. Find your training and prediction resources in the list and expand them. Here you can find your training key, prediction key, and prediction resource ID values. Save these values to a temporary location.
+The project needs a valid set of subscription keys to interact with the service. You can find the items at the Custom Vision website. Sign in with the account associated with the Azure account you used to create your Custom Vision resources. On the home page (the page with the option to add a new project), select the gear icon in the upper right. Find your training and prediction resources in the list and expand them. Here you can find your training key, prediction key, and prediction resource ID values. Save these values to a temporary location. To see a tutorial go to Getkeys file.
+
+
+# Get the sample images
+This example uses the images from the Cognitive Services Python SDK Samples repository on GitHub. There are two folder in this repository that you must download or take whenever you are running this experiment
+
 
